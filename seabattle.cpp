@@ -6,7 +6,15 @@
 
 #include <iostream>
 
-int main()
-{
+class Menu {
+private:
+public:
+    Menu();
+};
 
+int main() {
 } // end main() function
+
+Menu::Menu()
+{
+}
